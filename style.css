@@ -1,0 +1,81 @@
+.titulo {
+    font-family: 'Nova Oval', cursive;
+    text-align: center;
+}
+
+.paragrafo {
+    text-align: justify;
+    font-size: 18px;
+    text-indent: 2em;
+}
+
+b{
+    color:yellow;
+}
+
+.lista{
+    text-align: left;
+}
+
+#fundo{
+    text-align: center;
+    background-image: linear-gradient(109.6deg, rgb(23, 43, 69) 11.2%, rgb(3, 42, 84) 51.2%, rgb(0, 0, 0) 98.6%);
+    color: white;
+}
+
+.frutasComuns{
+    background-color: aquamarine;
+    border-radius: 10%;
+    width: 25%;
+    margin: 0.3%;
+}
+
+.frutasIncomum{
+    background-color: rgb(255, 127, 195);
+    border-radius: 10%;
+    width: 25%;
+    margin: 0.3%;
+}
+
+.frutasRaras{
+    background-color: rgb(255, 187, 127);
+    border-radius: 10%;
+    width: 25%;
+    margin: 0.3%;
+}
+
+.frutasLegendarias{
+    background-color: rgb(255, 187, 127);
+    border-radius: 10%;
+    width: 25%;
+    margin: 0.3%;
+}
+
+.frutasMisticas{
+    background-color: rgb(133, 255, 127);
+    border-radius: 10%;
+    width: 25%;
+    margin: 0.3%;
+}
+
+.frutasIndisponiveis{
+    background-color: rgb(168, 127, 255);
+    border-radius: 10%;
+    width: 25%;
+    margin: 0.3%;
+}
+
+.frutasAdministrativas{
+    background-color: rgb(255, 127, 249);
+    border-radius: 10%;
+    width: 25%;
+    margin: 0.3%;  
+}
+
+.loguinhos{
+  width: 3%;
+}
+
+.itens{
+    text-align: justify;
+}
